@@ -1,0 +1,9 @@
+{
+    "AOC_AGENT_API_KEY": null,
+    "server_ip": null,
+    "connector_id": null,
+    "vm_id": null,
+    "version": "0.1",
+    "frequency": -1,
+    "secure": false
+}

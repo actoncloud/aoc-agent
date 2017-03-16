@@ -1,0 +1,27 @@
+{
+  "name": "aoc-agent",
+  "version": "1.0.1",
+  "description": "ActOnCloud Agent that collects CPU, RAM, Network and Disk usage metrics and sends to ActOnCloud server.",
+  "main": "aocagent.js",
+  "dependencies": {
+    "diskusage": "^0.2.1",
+    "express": "^4.15.2",
+    "forever": "^0.15.3",
+    "getos": "^2.8.4",
+    "request": "^2.81.0",
+    "socket.io": "^1.7.3",
+    "socketio-auth": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ActOnCloud <cloud@actonmagic.com> (www.actoncloud.com)",
+  "license": "Apache-2.0",
+  "keywords": [
+    "Performance",
+    "Metrics",
+    "ActOnCloud",
+    "Monitoring"
+  ]
+}
